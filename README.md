@@ -25,5 +25,5 @@
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <br>
-<img src="https://komarev.com/ghpvc/?username=Kur-up&style=flat-square&color=red" alt="" height="20"/>
+    <img src="https://komarev.com/ghpvc/?username=Kur-up&style=flat-square&color=red" alt="" height="20"/>
 </div>
